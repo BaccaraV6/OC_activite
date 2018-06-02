@@ -36,3 +36,18 @@ Votre bot est prêt, mais vous ne l'avez toujours pas inviter sur votre discord.
 
 Nous allons créer votre serveur. Allumer votre logiciel Discord sur votre bureau, connectez vous et cliquez sur le " + " tout à gauche et cliquez sur " Créer un serveur ".
 Choisissez le nom de votre serveur, l'image de votre serveur et la région ou vous vivez. ( Normalement, c'est mis par défaut, vous n'avez pas besoins de toucher. Dans tout les cas c'est modifiable par la suite, ne vous en faite pas.)
+
+Vous voilà sur votre discord. Vous allez avoir une pop up avec un lien de partage Discord, c'est un lien pour inviter vos ami.
+Sur votre gauche, vous avez les salons. les vocaux et les textuels.
+Pour permettre à votre bot d'envoyer les logs des commandes, nous aurons besoins d'un channel " textuel "
+
+Cliquez sur le " + " à droite de " Salons textuels "
+Donnez un nom à votre channel.
+
+Dans mon cas, j'ai mis " log-bot " : Les tirets ( - ) dans les salons textuels sont obligatoire. Discord les obligent, je ne sais pas pourquoi :D.
+
+Nous allons avoir besoins de l'identifiant du salon, faite un clique droit dessus et cliquez sur " Copier l'identifiant "
+
+Collez l'identifiant dans " l'index.js " à la place de " id_channel " à la ligne 22.
+
+Voilà ! Je vous laisse tester le bot en tapant " !cmd " sur un channel textuel de votre choix. ( Sachant que log-bot sert de vérification, je vous déconseille d'écrire sur ce channel).
