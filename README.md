@@ -18,6 +18,7 @@ https://discordapp.com/register : inscrivez vous.
 https://discordapp.com/download : Télécharger l'application " Discord ".
 
 Ensuite, rendez vous ici : https://discordapp.com/developers/applications/me
+
 Nous allons commencer par créer votre bot, afin de lui donner un nom, une description et une image.
 Cliquez sur " Nouvelle application "
 
