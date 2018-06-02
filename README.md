@@ -6,7 +6,7 @@ Bot avec une simple commande permettant d'afficher les règles d'un Discord.
 
 # Info
 
-J'ai volontairement enlever mon " Token " pour des raisons de sécurité. Le token de votre bot est secret, si une personne vient à le récupérer, elle pourra se servir de votre bot à mauvaise escient.
+J'ai volontairement enlevé mon " Token " pour des raisons de sécurité. Le token de votre bot est secret, si une personne vient à le récupérer, elle pourra se servir de votre bot à mauvaise escient.
 
 # Comment l'utiliser ?
 
