@@ -12,10 +12,14 @@ J'ai volontairement enlevé mon " Token " pour des raisons de sécurité. Le tok
 Vous devez avoir un minimum de connaissance en JS pour pouvoir utiliser le bot. Vous devez au préalable, avoir un dossier contenant les ressource necessaire à ce bot. 
 
 Bibliothèque utilisé : 
+
 Discord.js ( npm install discord.js ) 
+
 behest ( facultatif : C'est pour la suite de mon propre bot ) ( npm i behest ) 
+
 signale ( npm i signale ) 
- n'hésitez pas à installer les bibliothèques avant de lire la suite
+
+n'hésitez pas à installer les bibliothèques avant de lire la suite
 
 Afin de pouvoir utiliser le code pour votre bot, faite ce qui suis.
 
